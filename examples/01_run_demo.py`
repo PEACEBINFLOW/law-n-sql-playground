@@ -1,0 +1,5 @@
+`python
+from law_n_sql_playground.playground import run_basic_demo
+
+if __name__ == "__main__":
+    run_basic_demo(steps=3, devices=5)

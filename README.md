@@ -12,14 +12,16 @@ This is the repo that turns the abstract Law-N concepts into something you can *
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### Requirements
 
 - Python **3.10+**
 - Recommended (but optional):
-  - [`law-n-signal-sim`](https://github.com/YOUR_USER/law-n-signal-sim)
-  - [`law-n-sql-core`](https://github.com/YOUR_USER/law-n-sql-core)
+  - [`https://github.com/PEACEBINFLOW/law-n-sql-core/tree/main
+
+  - [`https://github.com/PEACEBINFLOW/law-n-signal-sim/tree/main
+
 
 ### Install (local dev)
 
